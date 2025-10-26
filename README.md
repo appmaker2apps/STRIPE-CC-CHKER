@@ -20,7 +20,9 @@ This script checks credit card validity using the Stripe API. It reads card deta
    4000056655665556 | 11 | 2024 | 456
    ```
    
-2. Run the EXE
+2. Run the BAT file
+
+3. Install And Run the EXE
    
 4. Results will be saved in `results.txt`.
 
